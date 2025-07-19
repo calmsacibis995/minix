@@ -207,6 +207,7 @@ int sep = '\n';
  * Do we have -C anywhere?
  */
 int havechd = 0;
+char *chdname;
 
 /*
  * options()
